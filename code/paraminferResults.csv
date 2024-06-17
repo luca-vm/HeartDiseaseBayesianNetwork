@@ -1,0 +1,10 @@
+PETechnique,Inference,Accuracy,F1,RunTime
+MaximumLikelihoodEstimator,VariableElimination,0.8967391304347826,0.9099526066350712, 0.8804
+BayesianEstimatorBDeu,VariableElimination,0.8967391304347826,0.9107981220657277, 0.8922
+BayesianEstimatorK2,VariableElimination,0.8858695652173914,0.9004739336492891, 0.8911
+MaximumLikelihoodEstimator,BeliefPropagation,0.8967391304347826,0.9099526066350712, 2.4443
+BayesianEstimatorBDeu,BeliefPropagation,0.8967391304347826,0.9107981220657277, 2.2659
+BayesianEstimatorK2,BeliefPropagation,0.8858695652173914,0.9004739336492891, 2.2511
+MaximumLikelihoodEstimator,CausalInference,0.8967391304347826,0.9099526066350712, 0.3739
+BayesianEstimatorBDeu,CausalInference,0.8967391304347826,0.9107981220657277, 0.4305
+BayesianEstimatorK2,CausalInference,0.8858695652173914,0.9004739336492891, 0.3709
